@@ -4,6 +4,8 @@ const Home = () => {
 
     console.log("Hello")
 
+    console.log("Salama")
+
     return (
 
         
