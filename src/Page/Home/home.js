@@ -4,8 +4,7 @@ const Home = () => {
 
     console.log("Hello")
 
-    console.log("Salama");  
-      console.log("Salama")
+    console.log("dsfsdfsdfdsf")
 
     return (
 
